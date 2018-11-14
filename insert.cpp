@@ -15,7 +15,7 @@ class person
         {
             cout << "\nEnter your Age: ";
             cin >> age;
-            cout << "Enter your Gender(M/F): : ";
+            cout << "Enter your Gender(M/F): ";
             cin>>gender;
 	        cout<<"Enter your Profession: ";
 	        cin>>prof;
@@ -28,7 +28,7 @@ class person
             cout << "\nAge : " << age;
             cout << "\nGender : " << gender;
 	        cout << "\nProfession : " << prof;
-            cout << "\nlocality : " << locality;
+            cout << "\nLocality : " << locality;
         }
 
         string local()
