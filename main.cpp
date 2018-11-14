@@ -25,6 +25,7 @@ int main()
     cout<<TXT_B_WHITE;
     cout<<"\nTo exit the application, enter 0.\n\n";
     cout<<RESET;
+    cout<<"Enter your choice:"<<" ";
     cin>>choice;
     switch(choice)
     {
