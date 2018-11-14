@@ -1,6 +1,7 @@
-#Read me
+# depression-tester
 
-##What does this Program do?
+## What does this Program do?
+
 *  Our program aims to make talking about mental health a day-to-day topic, negating the stigma associated with it. It aims to be as readily accessible in assessing mental health through mobile apps as are pregnancy sticks for pregnancy.
 
 
@@ -14,6 +15,7 @@
      * For higher severities, we refer them to sites like [7cups](https://www.7cups.com/), which offer both free and paid therapy, and/or to go for professional therapy.
 
 ### Business Model/Future Plans:
+
   1. We plan to give every user an account. A dashboard in their profile will indicate their mental state based on statistical analysis of his recent to previous test scores.
   2. In his profile, we will take many inputs. By asking for their locality, a locality database hence created by us will be used to give to professional therapists to conduct seminars, workshops in these areas and a commission for us from the patients that join them through these. This helps everyone including us, the doctor, and the patient.
   3. A separate section of the app will be developed for different age groups of females, so that they can:
