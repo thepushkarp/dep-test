@@ -13,13 +13,13 @@ class person
     public:
         void setData()
         {
-            cout << "\nEnter your age ";
+            cout << "\nEnter your Age: ";
             cin >> age;
-            cout << "Enter your Gender(M,m/F,f) : ";
+            cout << "Enter your Gender(M/F): : ";
             cin>>gender;
-	        cout<<"Enter your Profession : ";
+	        cout<<"Enter your Profession: ";
 	        cin>>prof;
-            cout<<"Enter your locality : ";
+            cout<<"Enter your Locality: ";
             cin>>locality;
         }
 
@@ -48,4 +48,4 @@ void write_record()
     outFile.write((char*)&obj, sizeof(obj));
 
     outFile.close();
-}
+};
