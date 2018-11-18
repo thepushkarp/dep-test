@@ -7,7 +7,7 @@
 
 ### How does it work?
 
-  1. We start by taking input from the user in the form of answers to a standardised, reliable depression test (**_The Goldberg Test_**) and conveying to the user the severity of their depression.
+  1. We start by taking input from the user in the form of answers to a standardised, reliable depression test ([**The Goldberg Test**](https://en.wikipedia.org/wiki/Goldberg_psychiatric_tests)) and conveying to the user the severity of their depression.
   2. Based on the result of the test (6 categories), the program will suggest some steps, a sort of **Mental First Aid**, for some immediate relief.
   3. The current suggestions include :
      * Scientifically designed music, 'Weightless' by Marconi Union, to reduce blood pressure, heart rate, etc. accesible from inside the app.
@@ -21,5 +21,5 @@
   3. A separate section of the app will be developed for different age groups of females, so that they can:
      - Adult women can report harassment, abuse, domestic violence, rape, etc.
      - Teenage girls can report harassment, eve-teasing (with locality so that other girls be prepared with mace, pepper spray, friends in those areas), molestation, rape, etc.
-  4. Similar separate sections for Soldiers (__PTSD__), those who have lost any relative recently, people with terminal illness, etc. Using a paid version of the app, these people can connect amongst themselves for self-help groups, inter-patient therapy, support groups, etc.
+  4. Similar separate sections for Soldiers ([__PTSD__](https://en.wikipedia.org/wiki/Posttraumatic_stress_disorder)), those who have lost any relative recently, people with terminal illness, etc. Using a paid version of the app, these people can connect amongst themselves for self-help groups, inter-patient therapy, support groups, etc.
   5. A page with all mental-health helplines at one place, with calling a button away. Business helplines would need to give commision for each call recieved through the app.
