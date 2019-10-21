@@ -11,7 +11,7 @@ class person
     int age;
     char gender,prof[50],locality[50];
     public:
-        void setData()
+        void setData() //Takes in user data
         {
             cout << "\nEnter your Age: ";
             cin >> age;
