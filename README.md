@@ -2,7 +2,7 @@
 
 ## What does this Program do?
 
-*  Our program aims to make talking about mental health a day-to-day topic, negating the stigma associated with it. It aims to be as readily accessible in assessing mental health through mobile apps as are pregnancy sticks for pregnancy.
+*  Our program aims to make talking about mental health a day-to-day topic, negating the stigma associated with it. It aims to be as readily accessible in assessing mental health through mobile apps as it is the most easy source of reach for everyone.
 
 
 ### How does it work?
